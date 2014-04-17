@@ -17,9 +17,9 @@
 #### 资源
 本系列的资源列表：
 
-- 用于展示视频的Youtube频道（尚未开通）
+- [用于展示视频的Youtube频道](https://www.youtube.com/playlist?list=PLACejJP5y0qkbK7jCXlNl9ZVuTIwiDUka)
 - [用于存放代码示例等资源的Github Repo](https://github.com/tjwudi/daily-cpp)
-- 用于讨论的Google Group（尚未开通）
+- [用于讨论的Google Group](https://groups.google.com/forum/#!forum/daily-cpp-by-john-wu)
 
 #### 列表
 
